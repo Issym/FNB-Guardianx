@@ -54,4 +54,3 @@ Optional: create `.env.local` from `.env.local.example` and add `NEXT_PUBLIC_MAP
 
 ---
 
-Made for fast iteration in VS Code. Good luck winning FNB App of the Year 🚀
